@@ -1,0 +1,7 @@
+Today's Schdule
+
+ 3  
+
+Attend Morning session where we have learn about advance liunx commands and many more
+
+Also learn how to lunch the AWS EC2.
