@@ -1,0 +1,7 @@
+08 OCT 
+
+During the morning session, we learnt about AWS services such as S3. Lambdas, Route 53 and CloudWatch.
+
+I spent some time looking at these services in detail and how they are used.
+
+Attend the evening stand-up call.
