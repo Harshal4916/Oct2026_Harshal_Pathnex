@@ -1,0 +1,5 @@
+3 = Start learning about AWS
+
+Review some of the popular AWS services, such as EBS, VPC and S3, to name a few.
+
+We will learn about the storage services like S3, EBS and EFS, and how they differ.
