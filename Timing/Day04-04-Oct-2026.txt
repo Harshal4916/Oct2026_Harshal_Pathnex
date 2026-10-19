@@ -1,0 +1,11 @@
+4 OCT
+
+4 = Morning Session 
+
+We will learn about real-world use cases and issues.
+
+We will learn how to kill a process by name or process ID.
+
+We also learn how to find older logs/files and recent files, and the difference between grep and egrep.
+
+And so much more!
