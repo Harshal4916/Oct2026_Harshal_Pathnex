@@ -1,0 +1,6 @@
+Today, 7 October:
+
+3 = Attend morning session.
+
+I have completed the assignment task, which involved creating Ansible playbook files, Terraform modules and Kubernetes YAML files.
+
