@@ -1,0 +1,5 @@
+3 = We learn Git.
+
+How real-life developers work with the team on a simple project.
+
+We will learn how they collaborate, make changes and maintain the codebase.
