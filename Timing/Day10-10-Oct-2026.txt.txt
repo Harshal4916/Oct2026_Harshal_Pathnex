@@ -1,0 +1,9 @@
+10 OCT
+
+Today, we will learn about the following completed Docker topics:
+- How to containerize applications
+- How to run and manage Docker containers
+
+Tomorrow: 
+
+We will start learning Kubernetes as per the roadmap, where we will learn how to orchestrate containerised applications.
