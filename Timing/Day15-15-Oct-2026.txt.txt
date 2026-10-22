@@ -1,0 +1,5 @@
+The 15^(th) of October. 
+
+Today, we're going to find out how pods are actually managed, learn about the rolling update policy, Istio Gateway and a bunch of other topics.
+
+Then come along to the evening session.
