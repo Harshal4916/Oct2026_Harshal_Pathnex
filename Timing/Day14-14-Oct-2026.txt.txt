@@ -1,0 +1,1 @@
+We discussed Kubernetes and tried to deploy the NGINX application, which we deployed to an AWS EKS cluster. Then we ran into some issues, so we used ChatGPT to figure them out. It was a really good and fun learning experience.
