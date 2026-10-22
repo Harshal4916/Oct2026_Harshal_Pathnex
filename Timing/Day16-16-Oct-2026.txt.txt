@@ -1,0 +1,7 @@
+The 16th of October. 
+
+So, we're going to start learning about Helm Charts in Kubernetes.
+
+First, get to grips with the basics of configuration. 
+
+So, here's the lowdown on working with values.yaml and chart.yaml.
