@@ -1,0 +1,12 @@
+The 17th of October.
+
+This morning, we're going to get started on learning about the ArgoCD tool.
+
+It's great for keeping things going and making sure everything's on track. 
+
+Just to be clear, we're talking about a single source of truth here.
+
+
+tomorrow 
+
+So, according to the roadmap, we're going to learn Terrafrom, which is an IAC tool that uses code.
