@@ -1,0 +1,7 @@
+OCT 18
+
+So, in the morning session, we learned about Terraform, which is an IAC (Infra as Code) tool that's used to create infrastructure by writing code that supports multi-cloud platforms.
+
+If you need to, go back and rewatch the video to help you understand.
+
+The evening session is just 30 minutes long.
