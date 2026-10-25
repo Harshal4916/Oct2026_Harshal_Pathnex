@@ -1,0 +1,5 @@
+Today 
+
+Check out the morning session on YouTube where I'm learning about EKS, which is a fully managed Kubernetes service by AWS that we can use to deploy our application. 
+
+We'll be learning more about this topic tomorrow.
